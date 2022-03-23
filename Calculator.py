@@ -2,7 +2,7 @@
 # Prohram can only handle 2 inputs
 # Python code 
 # Created by Ongl syn cwympo 
-# https://github.com/iTsHackYouSate
+# https://github.com/Ongl-syn-cwympo
 
 
 print("What would you like to use the calculator for?")
