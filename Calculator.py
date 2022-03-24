@@ -1,5 +1,5 @@
 # Program; make a program simple calculator for all functions
-# Prohram can only handle 2 inputs
+# Program can only handle 2 inputs
 # Python code 
 # Created by Ongl syn cwympo 
 # https://github.com/Ongl-syn-cwympo
